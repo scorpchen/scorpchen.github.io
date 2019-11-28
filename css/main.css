@@ -28,3 +28,7 @@ p.cursive {
 p.fantasy {
   font-family: fantasy;
 }
+
+p ul {
+  color: green
+}
