@@ -1,7 +1,4 @@
-@font-face {
-  font-family: cedarville;
-  src: url("https://fonts.googleapis.com/css?family=Cedarville+Cursive");
-}
+
 body{
   align: center;
   font-family: Verdana, Geneva, Arial, sans-serif;
@@ -38,6 +35,6 @@ ul {
 }
 
 .cedarvillef{
-  font-family: cedarville;
+  font-family: "Cedarville Cursive";
 }
 
