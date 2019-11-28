@@ -1,3 +1,7 @@
+@font-face {
+  font-family: cedarville;
+  src: url("https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap");
+}
 body{
   align: center;
   font-family: Verdana, Geneva, Arial, sans-serif;
@@ -32,3 +36,8 @@ p.fantasy {
 ul {
   color: green
 }
+
+.cedarvillef{
+  font-family: cedarville;
+}
+
