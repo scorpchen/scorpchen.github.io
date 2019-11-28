@@ -1,7 +1,7 @@
 
 body{
-  align: center;
   font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size: small;
   background-color: #9dc9ff;
   margin-left: 20%;
   margin-right: 20%;
@@ -10,8 +10,12 @@ body{
   }
 
 h1 {
+  font-size: 220%;
   border-bottom: 1px solid black;
-  align: center;
+  }
+
+h2 {
+  font-size: 130%;
   }
 
 p, a {
