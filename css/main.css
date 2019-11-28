@@ -9,6 +9,10 @@ body{
   padding: 10px 10px 10px 10px;
   }
 
+h1, h2 {
+  color: #cc6600;
+}
+
 h1 {
   font-size: 220%;
   border-bottom: 1px solid black;
