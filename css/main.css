@@ -15,3 +15,6 @@ h1 {
 p, a {
   color: maroon;
   }
+p {
+  font-weight: bold;
+}
