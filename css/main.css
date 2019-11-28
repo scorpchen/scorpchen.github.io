@@ -38,6 +38,10 @@ p.fantasy {
   font-family: fantasy;
 }
 
+em {
+  text-decoration: line-through overline underline;
+}
+
 ul {
   color: green
 }
