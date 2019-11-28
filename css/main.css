@@ -16,6 +16,15 @@ h1 {
 p, a {
   color: maroon;
   }
+
 p {
   font-weight: bold;
+}
+
+p.cursive {
+  font-family: cursive;
+}
+
+p.fantasy {
+  font-family: fantasy;
 }
