@@ -50,7 +50,15 @@ ul {
   font-family: "Cedarville Cursive";
 }
 
-#picture {
-  width: 800px;
-  height: 450px;
+
+div#picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+div#picture img {
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
 }
