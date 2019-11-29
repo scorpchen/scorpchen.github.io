@@ -3,8 +3,6 @@ body{
   font-family: Verdana, Geneva, Arial, sans-serif;
   font-size: small;
   background-color: #9dc9ff;
-  margin-left: 20%;
-  margin-right: 20%;
   border: 2px solid black;
   padding: 10px 10px 10px 10px;
   }
@@ -61,4 +59,7 @@ div#picture img {
     height:auto;
     max-width:100%;
     max-height:100%;
+}
+div#float {
+  float: right;
 }
