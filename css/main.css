@@ -62,4 +62,9 @@ div#picture img {
 }
 div#float {
   float: right;
+  border: dashed medium black;
+  padding: 3px;
+  margin: 20px;
+  background-color: #444444;
+  border-radius: 15px;
 }
