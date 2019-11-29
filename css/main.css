@@ -63,6 +63,7 @@ div#float {
   border: dashed medium black;
   padding: 3px;
   margin: 20px;
-  background-color: #444444;
+  background-color: #9fcfff;
   border-radius: 15px;
+  width: 300px;
 }
