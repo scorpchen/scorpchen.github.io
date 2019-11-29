@@ -61,9 +61,9 @@ div#picture img {
     max-width:100%;
     max-height:100%;
 }
-div#float {
+div#page3 {
   float: right;
-  border: dashed medium black;
+  border: solid medium black;
   padding: 3px;
   margin: 20px;
   background-color: #9fcfff;
