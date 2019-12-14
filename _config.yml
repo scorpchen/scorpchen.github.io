@@ -5,15 +5,15 @@ baseurl: "/scorpchen.github.io" # for test: remove string '/space-jekyll-templat
 url: "http://scorpchen.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: scorp chen
+user_title: scorp chen
+email: hadesyoucheng@gmail.com
+twitter_username: ChengHades
+github_username:  scorpchen
+gplus_username:  hadesyoucheng
+linkedin_public_url: scorpchen # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: scorpchen
+profile_picture: photo
 
 # Build settings
 markdown: kramdown
@@ -59,12 +59,12 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: traning code
+    url: https://github.com/scorpchen/traning-code
+  - name: note everything
+    url: https://github.com/scorpchen/note-everything
+  - name: homepages
+    url: https://github.com/scorpchen/scorpchen.github.io
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
