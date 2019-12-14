@@ -13,7 +13,7 @@ github_username:  scorpchen
 gplus_username:  hadesyoucheng
 linkedin_public_url: scorpchen # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: scorpchen
-profile_picture: photo
+profile_picture: /assets/img/photo.jpg
 
 # Build settings
 markdown: kramdown
